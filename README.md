@@ -1,0 +1,1 @@
+![alt text](https://github.com/[pooja-solaikannu]/[express-session-based-auth]/blob/[main]/auth-stateful.png?raw=true)
